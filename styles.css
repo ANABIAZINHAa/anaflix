@@ -1,0 +1,31 @@
+body {
+    color: black;
+    background: rgb(255, 223, 237);
+    margin: 0p;
+    font-family: "Grechen Fuemen", cursive;
+    margin-bottom: 50px;
+}
+
+header {
+    border-bottom: solid 2px red;
+    padding: 15px;
+    font-size: 35px;
+    color: rgb(214, 98, 98);
+
+}
+
+section {
+    background: lightcoral;
+    padding: 25;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+img {
+    height: 200px;
+}
+
